@@ -1,4 +1,4 @@
-Testing GIT commands, especially rebase
+Testing GIT commands, especially rebase (edited)
 1
 2
 3
